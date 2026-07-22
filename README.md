@@ -1,6 +1,6 @@
 # Master UCM
 
-Repositorio de scripts y notebooks propios correspondientes a las tareas realizadas durante el Máster UCM.
+Repositorio de scripts y notebooks propios correspondientes a las tareas realizadas durante el Máster Big Data, data science & AI de la UCM del año 2024-2025
 
 ## Contenido
 
